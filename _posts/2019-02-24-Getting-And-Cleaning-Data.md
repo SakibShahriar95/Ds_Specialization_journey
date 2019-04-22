@@ -21,4 +21,4 @@ The final week mainly explains the concept of Regular Expression (Regex). To be 
 Overall, I would say that this course was extremely useful and quite enjoyable. 
 My Rating: 9.2/10
 
-![Course 3 certificate](/images/3.png)
+![Course 3 certificate]({{site.url}}{{site.baseurl}}/images/3.png)
