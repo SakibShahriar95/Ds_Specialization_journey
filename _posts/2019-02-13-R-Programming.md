@@ -23,6 +23,6 @@ The final week dealt with generating Random numbers in R. There were a bunch of 
 
 
 To summarize my thoughts and feelings, this course could have been done a lot better esp. the programming assignments. But overall, the course itself is pretty useful, particularly when looking at the bigger picture.
-My Rating: 8.1/10
+My Rating: 8/10
 
-![Course 2 certificate]( {{https://github.com/SakibShahriar95}}/images/2.png)
+![Course 2 certificate]({{site.url}}{{site.baseurl}}/images/2.png)
