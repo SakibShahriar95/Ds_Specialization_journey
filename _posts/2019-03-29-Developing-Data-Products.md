@@ -20,4 +20,4 @@ Week 3 was about teaching us how we can build our own R packages and this was ve
 Overall, This course exceeded my expectations by quite some margin! I loved shiny, Leaflet and the assignments were fun to do because we could choose what datasets to use and what to develop.
 My Rating: 9.7/10
 
-![Course 9 certificate](/images/9.png)
+![Course 9 certificate]({{site.url}}{{site.baseurl}}/images/9.png)
