@@ -20,7 +20,7 @@ The next week is more theoretical. Concepts of what "data" and "big data" are is
 The final section consists of a course project, and probably the easiest assignment in the whole specialization. We needed to basically showcase our git skills and upload something on github. 
 
 Overall, I feel this course was extremely helpful. I would add some other lectures that show what a typical Data Science Project looks like just to give a feel for the subject to the new students.
-My Rating: 9.4/10
+My Rating: 9.5/10
 
 ![Course 1 certificate]({{site.url}}{{site.baseurl}}/images/1.png)
 
