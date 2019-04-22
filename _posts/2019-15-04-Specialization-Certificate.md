@@ -14,4 +14,4 @@ Thank you Dr. Roger D.Peng, Dr. Jeff Leek and Dr. Brian Caffo for guiding me thr
 
 
 
-![Specialization certificate](/images/11.png)
+![Specialization certificate]({{site.url}}{{site.baseurl}}/images/11.png)
