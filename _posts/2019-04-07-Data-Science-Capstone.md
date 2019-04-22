@@ -13,14 +13,14 @@ The capstone project was like a mystery box. It was only unlocked after all the 
 The first 2 weeks introduced the topic and they pointed us to various online resources to guide us with the project. There was also a milestone report at the end of week 2 to perform exploratory analysis on the dataset. 
 
 
-![SwiftKey, Bloomberg & Coursera Logo](/images/logos.png)
+![SwiftKey, Bloomberg & Coursera Logo]({{site.url}}{{site.baseurl}}/images/logos.png)
 
 ******
 
 #### Project Results
 
 This is what the web app looks like. It was built with shiny using R Studio and is hosted on shiny apps. The user can enter the sequence of words, and the app is able to predict the next word based on the given corpus.
-![App Interface](/images/nlp.png)
+![App Interface]({{site.url}}{{site.baseurl}}/images/nlp.png)
 
 In addition, the app can be accessed through this link:
 [Word Predictor](https://sakibshahriar95.shinyapps.io/cdsc/)
@@ -55,7 +55,7 @@ N-gram utilizes the concept of Probabilistic Language Model. This allows us to g
 of words. This is because the next word is dependent on the previous. So from probability (chain rule) we get that : P(A n B) = p (A|B) * P(B). But this chain rule can be extended
 to more general and fit more terms:
 
-![formula](/images/formula.png) 
+![formula]({{site.url}}{{site.baseurl}}/images/formula.png) 
 
 Source : [Wikipedia](https://en.wikipedia.org/wiki/Chain_rule_(probability))
 
@@ -67,7 +67,7 @@ Note: P(fluffy/ I like) is the Probability of fluffy given the probability of I 
 But, as you may realize from the example that it can be too complex for a long sentence. 
 Well, the solution to this is using Markov Model developed by Russian mathematician Andrey Markov.
 
-![ngram](/images/ngram.png)
+![ngram]({{site.url}}{{site.baseurl}}/images/ngram.png)
 
  [Image source- Kevin Sookocheff](https://sookocheff.com/post/nlp/ngram-modeling-with-markov-chains/)
 
@@ -84,4 +84,4 @@ Overall, the capstone was fun, although lots of self-study was required, conside
 
 My Rating: 9.1/10
 
-![Course 10 certificate](/images/10.png)
+![Course 10 certificate]({{site.url}}{{site.baseurl}}/images/10.png)
