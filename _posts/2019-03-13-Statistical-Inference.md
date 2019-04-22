@@ -23,4 +23,4 @@ The course project had 2 parts. The first part was to do with distributions and 
 So that was this course. Even though I found it uninteresting, I'm sure it is quite fundamental for students, particularly, those who didn't have some statistics background. 
 My Rating: 7.3/10
 
-![Course 6 certificate](/images/6.png)
+![Course 6 certificate]({{site.url}}{{site.baseurl}}/images/6.png)
