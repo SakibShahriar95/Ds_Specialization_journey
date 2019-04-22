@@ -23,4 +23,4 @@ The final week contained a couple of case studies. This was the best part of thi
 Overall, exploratory data analysis is one of my favorite courses in the specialization. I learned some great techniques that I can definitely take with me to my work!
 My Rating: 9.7/10
 
-![Course 4 certificate](/images/4.png)
+![Course 4 certificate]({{site.url}}{{site.baseurl}}/images/4.png)
