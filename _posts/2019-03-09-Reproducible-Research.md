@@ -21,4 +21,4 @@ Before I conclude, let me speak about the course project. This was one of my fav
 I really loved this course as it taught me that no matter how good my analysis is, its meaningless if it's not reproducible. I learned about the Duke case which was just mindblowing to know at that time. And most importantly, the project was the best!
 My Rating: 9.8/10
 
-![Course 5 certificate](/images/5.png)
+![Course 5 certificate]({{site.url}}{{site.baseurl}}/images/5.png)
