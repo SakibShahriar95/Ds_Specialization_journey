@@ -22,4 +22,4 @@ The final section consists of a course project, and probably the easiest assignm
 Overall, I feel this course was extremely helpful. I would add some other lectures that show what a typical Data Science Project looks like just to give a feel for the subject to the new students.
 My Rating: 9.5/10
 
-![Course 1 certificate]( {{ https://github.com/SakibShahriar95 }}/images/1.png)
+![Course 1 certificate]( {{ Ds_Specialization_journey }}/images/1.png)
