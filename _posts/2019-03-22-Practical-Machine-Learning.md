@@ -19,4 +19,4 @@ Week 3 and 4 were relatively short. They introduced Random Forest (which was ama
 Overall, the lectures were good but the project could have been better (to allow us to implement multiple ML techniques that we learned).
 My Rating: 8.1/10
 
-![Course 8 certificate](/images/8.png)
+![Course 8 certificate]({{site.url}}{{site.baseurl}}/images/8.png)
