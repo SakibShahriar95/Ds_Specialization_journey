@@ -19,4 +19,4 @@ Now about the course project...It was good. Like other projects that I found int
 Overall, this was an extremely useful course, with a good project. I wish the content was presented differently. For instance, they could have had a small example/case study to explain concepts like logistic regression and so on.
 My Rating: 7.9/10
 
-![Course 7 certificate](/images/7.png)
+![Course 7 certificate]({{site.url}}{{site.baseurl}}/images/7.png)
